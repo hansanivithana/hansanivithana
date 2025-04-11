@@ -6,7 +6,7 @@
 ---
 
 
-- 🌱 I’m currently learning **Java , JavaScript**
+- 🌱 I’m currently learning **Java , JavaScript,MERN**
 
 - 🤝 I’m looking for help with **Contributing to open-source projects**
 
