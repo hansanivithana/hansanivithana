@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hansanivithana001@gmail.com**
 
-- ⚡ Fun fact **I love hiking and have climbed three of the Seven Summits!**
+
 
 
 <h3 align="left">Connect with me:</h3>
