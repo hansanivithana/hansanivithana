@@ -6,11 +6,11 @@
 ---
 
 
-- 🌱 I’m currently learning **Java , JavaScript,**
+- 🌱 I’m currently learning **Java , MERN**
 
 - 🤝 I’m looking for help with **Contributing to open-source projects**
 
-- 📫 How to reach me **hansanivithana001@gmail.com**
+
 
 
 
