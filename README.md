@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java , MERN**
 
-- 🤝 I’m looking for help with **Contributing to open-source projects**
+- 🤝 I’m looking for help with **Contributing to open source projects**
 
 
 
